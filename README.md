@@ -18,5 +18,19 @@ Este repositório contém meus estudos realizados durante o aprendizado de **Jav
 
 ---
 
-## 📂 Estrutura do Repositório
 
+## 🧠 Objetivo
+
+Consolidar meu conhecimento em JavaScript por meio da prática e da organização dos conteúdos estudados. Esse repositório servirá como material de consulta futura e prova de aprendizado.
+
+---
+
+## ✍️ Autor
+
+João Paulo Oliveira  
+📧 joao.ppaulo92@hotmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/seu-usuario-linkedin)
+
+---
+
+🚧 *Este repositório está em constante atualização conforme avanço no curso.*
