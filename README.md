@@ -29,7 +29,7 @@ Consolidar meu conhecimento em JavaScript por meio da prática e da organizaçã
 
 João Paulo Oliveira  
 📧 joao.ppaulo92@hotmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/seu-usuario-linkedin)
+🔗 [LinkedIn](https://www.linkedin.com/in/joao-pauloliveira/)
 
 ---
 
